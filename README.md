@@ -6,29 +6,40 @@ Currently designing and deploying deterministic, secure AI workflows using LangG
 
 ### ⚡ Core Technical Stack
 ⚬	AI Orchestration & Agents: LangGraph, LangChain, Model Context Protocol (MCP), Microsoft AI Foundry, Azure AI Agent Service, ReAct, LangSmith
+
 ⚬	RAG & Vector Search: Single-Index Metadata RAG, Chroma DB, Pinecone, FAISS, Semantic Vector Caching
+
 ⚬	AI Guardrails & Safety: Azure AI Content Safety, PII Masking/Redaction, Pydantic Structured Outputs
+
 ⚬	Full-Stack & Cloud: Python, FastAPI, Node.js, React, TypeScript, Microsoft Azure (App Services, APIM, Functions), Docker, Redis, PostgreSQL
 
 ### 📌 Featured AI Projects
 ⚬	🤖 Resume Screening & Proof-of-Work Verification Agent
 LangGraph • Streamlit • Model Context Protocol (MCP) • Pydantic • LangSmith
 Candidate evaluation agent with real-time GitHub MCP tool execution (search_repositories, list_commits) and end-to-end LangSmith tracing.
+
 ⚬	🌐 Enterprise Multi-Country Single-Index RAG
 Chroma DB • Claude 3 • In-Memory Vector Cache • Pydantic Filtering
 Zero-overhead metadata-filtered RAG over 200+ target documents with custom LRU vector semantic caching (<5 ms repeat latency).
+
 ⚬	🛡️ Enterprise Support Agent & Safety Guardrails
 Microsoft AI Foundry • Azure AI Agent Service • Azure Content Safety • OpenTelemetry
 Customer support agent backed by File Search RAG, tool-gating prompt contracts, PII redaction, and prompt injection controls.
+
 ⚬	🔄 Multi-Tool Stateful Agent & Thread Persistence
 LangGraph • PostgresSaver • OpenRouter • LangSmith Studio
 Multi-turn conversational agent with Postgres session checkpointing and dynamic API routing.
 
 ### 📫 Connect With Me
+
 ⚬	🌍 Based in: London, United Kingdom
+
 ⚬	💼 LinkedIn: https://www.linkedin.com/in/vakacharla-sathya/
+
 ⚬	✉️ Contact: svakacharla@yahoo.com
+
 ⚬	🧠 Currently Building: Autonomous Multi-Agent Systems, Custom MCP Servers, and Guardrailed Production RAG Pipelines
+
 
 ### Skills
 
